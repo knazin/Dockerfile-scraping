@@ -1,0 +1,8 @@
+requests
+requests-html
+lxml
+scrapy
+selenium
+psycopg2
+pprint
+jupyterlab
