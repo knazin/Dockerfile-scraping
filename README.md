@@ -2,6 +2,14 @@
 
 This is everything you need to create your own image for scraping
 
+
+To download the image run:
+```
+docker pull knazin/scraping
+```
+
+[Link to dockerhub](https://hub.docker.com/r/knazin/scraping)
+
 ## This image contains
 
 * Python libs
